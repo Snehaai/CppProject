@@ -147,6 +147,7 @@ void deleteAccount(int accno) {
 // Main function
 int main() {
     int choice, acc;
+    float amount;
     do {
         cout << "\n===== BANK MANAGEMENT SYSTEM =====";
         cout << "\n1. Add Account";
